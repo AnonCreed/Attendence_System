@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Face data
+encodings.pkl
+*.pkl
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
